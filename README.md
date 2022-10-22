@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techiesatyam
-- 👀 I’m interested in Engineering and school level IT projects
-- 🌱 I’m currently learning baisc pyton coading like creating a folder by using pyton codes.
+- 👀 I’m interested in School level IT projects.
+- 🌱 I’m currently learning baisc pyton coading.
 
 
 <!---
