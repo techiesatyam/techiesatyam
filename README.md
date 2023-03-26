@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techiesatyam
 - 👀 I’m interested in School level IT projects.
-- 🌱 I’m currently learning baisc pyton coading.
+- 🌱 I’m currently making a website related to Indian Railways.
 
 
 <!---
